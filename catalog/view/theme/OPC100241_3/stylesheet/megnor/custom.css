@@ -410,7 +410,7 @@ span.customSelect.changed {
 .active .mobile_togglemenu { background-position:right -52px; }
 #footer .mobile_togglemenu:hover	{ text-decoration:none;}
 
-.toggle .mobile_togglemenu:before {	color: #222;
+.toggle .mobile_togglemenu:before {	color: #fff;
 		content: "\f107";
 		font-family: "FontAwesome";
 		font-size:20px;

@@ -1,2 +1,3 @@
-# heromarkt
-Heromarkt
+# Heromarkt
+
+Codebase of Heromarkt shop

@@ -162,3 +162,6 @@ dist
 /.idea
 /upload/.idea
 
+# config
+config.php
+

@@ -26,6 +26,7 @@ class ControllerExtensionModuleCategory extends Controller {
 		$this->load->model('catalog/category');
 
 		$this->load->model('catalog/product');
+		$data['all_blogs'] = $this->url->link('information/blogger/blogs');
 		$data['contact'] = $this->url->link('information/contact');
 
 		$data['categories'] = array();
